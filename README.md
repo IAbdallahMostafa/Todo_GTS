@@ -1,2 +1,27 @@
-# Todo_GTS
-Todo Management API - For GTS Task
+# Todo Management API
+
+A simple Todo Management application built with ASP.NET Core and Entity Framework Core.  
+This project was developed as part of the GTS .NET Developer task.
+
+## 🛠 Tech Stack
+
+- ASP.NET Core 9
+- Entity Framework Core 9
+- SQL Server 
+- Bootstrap 5 (Frontend)
+- ABP Framework
+
+  ## 🚀 Features
+
+- ✅ Create, Read, Update, and Delete Todos
+- ✅ Mark a Todo as Completed
+- ✅ Filter Todos by Status (Pending, InProgress, Completed)
+- ✅ Basic Validation (Title required, max 100 chars)
+- ✅ Simple Bootstrap UI with status filtering
+- ✅ Error handling and user feedback
+
+## 📦 Getting Started
+
+### 1. Clone the Repository
+git clone https://github.com/IAbdallahMostafa/Todo-GTS.git
+
