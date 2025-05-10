@@ -8,7 +8,7 @@ This project was developed as part of the GTS .NET Developer task.
 - ASP.NET Core 8
 - Entity Framework Core 9
 - SQL Server 
-- Bootstrap 5 (Frontend)
+- HTML, CSS, JS, Bootstrap 5 (Frontend)
 
 
   ## 🚀 Features
