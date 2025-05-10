@@ -25,8 +25,19 @@ namespace Todo.API
             // Add UnitOfWork
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
-            // Add AutoMapper - Specify the assembly explicitly to resolve ambiguity
+            // Add AutoMapper 
             builder.Services.AddAutoMapper(typeof(Program));
+
+            // Add CORS
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll", policy =>
+                {
+                    policy.AllowAnyOrigin()
+                          .AllowAnyMethod()
+                          .AllowAnyHeader();
+                });
+            });
 
             var app = builder.Build();
 
@@ -36,6 +47,9 @@ namespace Todo.API
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+
+            // Use CORS
+            app.UseCors("AllowAll");
 
             app.UseHttpsRedirection();
 

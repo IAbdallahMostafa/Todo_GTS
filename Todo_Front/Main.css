@@ -1,0 +1,32 @@
+.todo-item {
+    transition: all 0.3s ease;
+}
+.todo-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.priority-high {
+    border-left: 5px solid #dc3545;
+}
+.priority-medium {
+    border-left: 5px solid #ffc107;
+}
+.priority-low {
+    border-left: 5px solid #0d6efd;
+}
+.status-todo {
+    background-color: #f8f9fa;
+}
+.status-inprogress {
+    background-color: #e7f5ff;
+}
+.status-done {
+    background-color: #f0fff4;
+    text-decoration: line-through;
+}
+.modal-backdrop {
+    z-index: 1040;
+}
+.modal {
+    z-index: 1050;
+}
