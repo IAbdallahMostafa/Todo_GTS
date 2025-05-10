@@ -9,7 +9,7 @@ This project was developed as part of the GTS .NET Developer task.
 - Entity Framework Core 9
 - SQL Server 
 - Bootstrap 5 (Frontend)
-- ABP Framework
+
 
   ## 🚀 Features
 
