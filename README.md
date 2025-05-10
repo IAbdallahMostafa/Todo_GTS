@@ -5,7 +5,7 @@ This project was developed as part of the GTS .NET Developer task.
 
 ## 🛠 Tech Stack
 
-- ASP.NET Core 9
+- ASP.NET Core 8
 - Entity Framework Core 9
 - SQL Server 
 - Bootstrap 5 (Frontend)
