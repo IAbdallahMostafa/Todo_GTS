@@ -1,0 +1,12 @@
+E:\Todo_GTS\Todo_API\Todo.Entities\bin\Debug\net8.0\Todo.Entities.deps.json
+E:\Todo_GTS\Todo_API\Todo.Entities\bin\Debug\net8.0\Todo.Entities.dll
+E:\Todo_GTS\Todo_API\Todo.Entities\bin\Debug\net8.0\Todo.Entities.pdb
+E:\Todo_GTS\Todo_API\Todo.Entities\obj\Debug\net8.0\Todo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Todo_GTS\Todo_API\Todo.Entities\obj\Debug\net8.0\Todo.Entities.AssemblyInfoInputs.cache
+E:\Todo_GTS\Todo_API\Todo.Entities\obj\Debug\net8.0\Todo.Entities.AssemblyInfo.cs
+E:\Todo_GTS\Todo_API\Todo.Entities\obj\Debug\net8.0\Todo.Entities.csproj.CoreCompileInputs.cache
+E:\Todo_GTS\Todo_API\Todo.Entities\obj\Debug\net8.0\Todo.Entities.sourcelink.json
+E:\Todo_GTS\Todo_API\Todo.Entities\obj\Debug\net8.0\Todo.Entities.dll
+E:\Todo_GTS\Todo_API\Todo.Entities\obj\Debug\net8.0\refint\Todo.Entities.dll
+E:\Todo_GTS\Todo_API\Todo.Entities\obj\Debug\net8.0\Todo.Entities.pdb
+E:\Todo_GTS\Todo_API\Todo.Entities\obj\Debug\net8.0\ref\Todo.Entities.dll
